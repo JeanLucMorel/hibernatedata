@@ -1,5 +1,7 @@
 ## Hibernate Data Labelling Platform
 
+https://pump.fun/coin/BM8ejRwr9DYvhsxRT7z8k17bunQX5Je79y6Zqyx7pump
+
 Solana-backed data labeling exchange where requesters upload CSVs, fund escrow accounts, and mobile-first workers submit entry-by-entry labels. Amplify Storage stores payloads, Upstash Redis tracks task state, and payment events run through custodial wallets managed on-chain.
 
 ### Stack
