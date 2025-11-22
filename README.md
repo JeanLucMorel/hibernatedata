@@ -1,5 +1,5 @@
 ## Redacted Launcher
-
+https://pump.fun/coin/Gm7iCKfsQJ8HhbZurA355sN8CDzPMsS8jWfdimiapump
 
 Solana-backed data labeling exchange where requesters upload CSVs, fund escrow accounts, and mobile-first workers submit entry-by-entry labels. Amplify Storage stores payloads, Upstash Redis tracks task state, and payment events run through custodial wallets managed on-chain.
 
