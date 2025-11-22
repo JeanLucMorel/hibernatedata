@@ -1,6 +1,5 @@
-## Ignition Protocol
+## Redacted Launcher
 
-https://pump.fun/coin/6GyELfnEX6HAVgYWuvB1ZpmQzrF3PhafSBvJnC2Zpump
 
 Solana-backed data labeling exchange where requesters upload CSVs, fund escrow accounts, and mobile-first workers submit entry-by-entry labels. Amplify Storage stores payloads, Upstash Redis tracks task state, and payment events run through custodial wallets managed on-chain.
 
